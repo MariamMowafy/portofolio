@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: 'Chat App',
-    description: "Using React, Node.js I built a Full Chat Application - from start to finish. The App is called Kalemny and it is a simple social media app that allows users to chat together.",
+    title: 'Paws & Claws',
+    description: "Using Adobe XD, React.js and Node.js I built a Full Pet Services Application - from start to finish. The App is called Paws & Claws and it is a simple service app.",
       image: '/images/1.png',
-      tags: ['React', 'Node', 'JavaScript'],
+      tags: ['React', 'Node', 'JavaScript','front-end','Adobe XD','css'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
