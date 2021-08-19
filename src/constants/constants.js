@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Paws & Claws',
     description: "Using Adobe XD, React.js and Node.js I built a Full Pet Services Application - from start to finish. The App is called Paws & Claws and it is a simple service app.",
-      image: '/images/1.png',
+      image: '/images/logo.png',
       tags: ['React', 'Node', 'JavaScript','front-end','Adobe XD','css'],
     source: 'https://google.com',
     visit: 'https://google.com',
